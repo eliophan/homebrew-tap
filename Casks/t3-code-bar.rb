@@ -10,7 +10,7 @@ cask "t3-code-bar" do
   homepage "https://github.com/eliophan/t3code-bar"
 
   depends_on arch: :arm64
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "T3 Code Bar Tauri.app"
 
