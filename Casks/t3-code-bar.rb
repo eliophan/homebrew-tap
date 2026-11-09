@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
 cask "t3-code-bar" do
-  version "2.0.0-alpha.1"
-  sha256 "2856a270d83865af19ef03b8ff556d6687af6fec6dff1bfcd3e1fa668291f01d"
+  version "2.0.0-alpha.2"
+  sha256 "645323008a9b5e91b87194a1a44eace6ca46753891bd6c9d4482d8ec764cbb05"
 
   url "https://github.com/eliophan/t3code-bar/releases/download/v#{version}/T3-Code-Bar-#{version}-darwin-aarch64.app.tar.gz"
   name "T3 Code Bar"
